@@ -5,3 +5,4 @@ The dataset is from Loan Data from Prosper, This data set contains 113,937 loans
 The dataset doctionary https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0
 
 # Summary of Findings
+## 1. 
