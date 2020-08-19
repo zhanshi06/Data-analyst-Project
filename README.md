@@ -6,7 +6,7 @@ The dataset doctionary https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6W
 
 
 
-# Exploration of catagorial variables 
+# Exploration of variables 
 1. In the Loan Status, the majority of the staus is Current, 49.3% of all the data
 2. There are 67 unique occupation, and the the majority of the occupation is others. It's odd in the survey, that does not covering the most occupation
 3. The areas where loans are more popular are CA, TX, FL and NY
@@ -24,12 +24,10 @@ majority of the loan applicants are from 50K to 75K range.
 
 # For Presentation
 
-1. EmploymentStatus of all Borrowers are with Employed State, LoanStatus of all Borrowers are with current and completed state 
+1. BorrowerRate and BorrowerAPR are highly related
 
-2. Majority of the borrowers are with an occupation of Professional and Executive and with a rating or score from 4 to 8. The borrowers rate follow an approximately unimodal distribution, with the peak around 0.16. 
+2. ProsperRating (Alpha) form AA have low BorroweAPR.
 
-3. The origination amount of the loan is interesting. Here we see that the distribution is a right skewed with multiple peaks observed at 4000 USD, 10000 USD and 15000 USD. 
+3. ProsperRating (Alpha) HR has the LoanOriginalAmount of least in most of the figures, while A and AA have fairly a large amount of LoanOriginalAmount.
 
-4. Loan original amount and monthly loan payment is highly correlated and it is expected and borrowers interest rate and proper score are highly correlated(-vely), Borrower interest rate and loanamount are -vely correlated.
-
-To conclude this analysis , the loan approval status is heavily dependent on the applicant's information on IncomeRange, Homeownerstatus and employment status.
+4. High rating is given to applicants with employee status having employed and full time and these appicants have higher monthly salary
