@@ -13,16 +13,6 @@ The dataset doctionary https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6W
 4. Most income rage is around from 25000 - 49999, and 50000 - 74999
 
 # Summary of Findings
-1. From the data set, the Employment Status of the Borrowers are with Employed Status. With the Employed sataus,
-majority of the loan applicants are from 50K to 75K range.
-
-2. The monthly income of borrowers are having higher values for employed, other and full time employment status with the prosper rating of AA, A and B
-
-3. From the exploration, Without homeowner tend to have a higher interest rate, and thus lower rating.However homeowner tends to have lower interest rate and higher rating. 
-
-4. Applicants with incomerange of 50K to 75K range have their prosper rating falling under AA, A, B and C, LoanStatus with current and completed have own homes when they applied for loans
-
-# For Presentation
 
 1. BorrowerRate and BorrowerAPR are highly related
 
